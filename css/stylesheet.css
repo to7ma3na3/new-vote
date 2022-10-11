@@ -361,6 +361,16 @@ h4 {
     display: block;
 }
 
+.footer {
+    display: flex;
+    height: 24px;
+    line-height: 1.2;
+    justify-content: center;
+    padding-top: 4px;
+    background: #777;
+    color: white;
+}
+
 
 
 /* 選挙通知と投票案内 */
@@ -659,6 +669,7 @@ h3 {
     padding: 6px 12px;
     border: 1px solid #000;
 } 
+
 
 
 
